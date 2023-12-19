@@ -1,9 +1,0 @@
-Title,Value
-ID,T1056.001
-Sub-technique of, T1056
-Tactics,"Collection, Credential Access"
-Platforms,"Linux, Network, Windows, macOS"
-Permissions Required,"Administrator, SYSTEM, User, root"
-Version,1.1
-Created,11 February 2020
-Last Modified,30 March 2023

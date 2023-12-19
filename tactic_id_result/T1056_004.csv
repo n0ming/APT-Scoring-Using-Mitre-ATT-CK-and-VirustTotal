@@ -1,9 +1,0 @@
-Title,Value
-ID,T1056.004
-Sub-technique of, T1056
-Tactics,"Collection, Credential Access"
-Platforms,Windows
-Permissions Required,"Administrator, SYSTEM"
-Version,1.0
-Created,11 February 2020
-Last Modified,10 November 2020
