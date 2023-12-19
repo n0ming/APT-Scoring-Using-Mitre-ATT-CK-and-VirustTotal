@@ -1,0 +1,10 @@
+Title,Value
+ID,T1614.001
+Sub-technique of, T1614
+Tactic,Discovery
+Platforms,"Linux, Windows, macOS"
+Permissions Required,User
+Contributors,"Harshal Tupsamudre, Qualys"
+Version,1.0
+Created,18 August 2021
+Last Modified,15 October 2021

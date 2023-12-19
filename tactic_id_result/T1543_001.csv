@@ -1,0 +1,10 @@
+Title,Value
+ID,T1543.001
+Sub-technique of, T1543
+Tactics,"Persistence, Privilege Escalation"
+Platforms,macOS
+Permissions Required,"Administrator, User"
+Contributors,"Antonio Piazza, @antman1p"
+Version,1.4
+Created,17 January 2020
+Last Modified,21 April 2022

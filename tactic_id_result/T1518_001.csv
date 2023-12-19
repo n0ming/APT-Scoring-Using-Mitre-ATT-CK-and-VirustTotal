@@ -1,0 +1,9 @@
+Title,Value
+ID,T1518.001
+Sub-technique of, T1518
+Tactic,Discovery
+Platforms,"Azure AD, Google Workspace, IaaS, Linux, Office 365, SaaS, Windows, macOS"
+Contributors,"Isif Ibrahima, Mandiant"
+Version,1.4
+Created,21 February 2020
+Last Modified,21 April 2023

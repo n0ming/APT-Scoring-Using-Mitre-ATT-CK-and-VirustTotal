@@ -1,0 +1,10 @@
+Title,Value
+ID,T1070.004
+Sub-technique of, T1070
+Tactic,Defense Evasion
+Platforms,"Linux, Windows, macOS"
+Defense Bypassed,Host forensic analysis
+Contributors,Walker Johnson
+Version,1.1
+Created,31 January 2020
+Last Modified,16 April 2022

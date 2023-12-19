@@ -1,0 +1,9 @@
+Title,Value
+ID,T1037.005
+Sub-technique of, T1037
+Tactics,"Persistence, Privilege Escalation"
+Platforms,macOS
+Permissions Required,Administrator
+Version,1.0
+Created,15 January 2020
+Last Modified,20 April 2022

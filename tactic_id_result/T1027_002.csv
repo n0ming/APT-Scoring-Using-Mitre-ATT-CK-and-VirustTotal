@@ -1,0 +1,10 @@
+Title,Value
+ID,T1027.002
+Sub-technique of, T1027
+Tactic,Defense Evasion
+Platforms,"Linux, Windows, macOS"
+Defense Bypassed,"Anti-virus, Heuristic detection, Signature-based detection"
+Contributors,"Filip Kafka, ESET"
+Version,1.2
+Created,05 February 2020
+Last Modified,30 March 2023
