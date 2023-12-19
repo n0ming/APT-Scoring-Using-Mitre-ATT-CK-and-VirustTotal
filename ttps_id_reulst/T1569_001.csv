@@ -1,9 +1,0 @@
-Title,Value
-ID,T1569.001
-Sub-technique of, T1569
-Tactic,Execution
-Platforms,macOS
-Permissions Required,"User, root"
-Version,1.1
-Created,10 March 2020
-Last Modified,15 October 2021
