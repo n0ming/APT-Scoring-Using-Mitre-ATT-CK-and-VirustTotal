@@ -1,0 +1,9 @@
+Title,Value
+ID,T1087.001
+Sub-technique of, T1087
+Tactic,Discovery
+Platforms,"Linux, Windows, macOS"
+Contributors,"Daniel Stepanic, Elastic; Miriam Wiesner, @miriamxyra, Microsoft Security"
+Version,1.4
+Created,21 February 2020
+Last Modified,13 April 2023

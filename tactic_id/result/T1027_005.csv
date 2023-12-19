@@ -1,0 +1,9 @@
+Title,Value
+ID,T1027.005
+Sub-technique of, T1027
+Tactic,Defense Evasion
+Platforms,"Linux, Windows, macOS"
+Defense Bypassed,"Anti-virus, Host intrusion prevention systems, Log analysis, Signature-based detection"
+Version,1.1
+Created,19 March 2020
+Last Modified,28 April 2022

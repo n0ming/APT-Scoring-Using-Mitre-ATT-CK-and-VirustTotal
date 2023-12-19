@@ -1,0 +1,9 @@
+Title,Value
+ID,T1055.011
+Sub-technique of, T1055
+Tactics,"Defense Evasion, Privilege Escalation"
+Platforms,Windows
+Defense Bypassed,"Anti-virus, Application control"
+Version,1.0
+Created,14 January 2020
+Last Modified,10 November 2020

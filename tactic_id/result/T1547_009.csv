@@ -1,0 +1,10 @@
+Title,Value
+ID,T1547.009
+Sub-technique of, T1547
+Tactics,"Persistence, Privilege Escalation"
+Platforms,Windows
+Permissions Required,"Administrator, User"
+Contributors,"Bobby, Filar, Elastic; David French, Elastic; Travis Smith, Tripwire"
+Version,1.2
+Created,24 January 2020
+Last Modified,30 March 2023

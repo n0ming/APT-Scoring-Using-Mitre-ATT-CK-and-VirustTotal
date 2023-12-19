@@ -1,0 +1,10 @@
+Title,Value
+ID,T1559.002
+Sub-technique of, T1559
+Tactic,Execution
+Platforms,Windows
+Permissions Required,User
+Supports Remote, Yes
+Version,1.2
+Created,12 February 2020
+Last Modified,22 February 2022

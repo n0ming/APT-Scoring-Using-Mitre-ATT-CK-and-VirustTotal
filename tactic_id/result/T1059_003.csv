@@ -1,0 +1,10 @@
+Title,Value
+ID,T1059.003
+Sub-technique of, T1059
+Tactic,Execution
+Platforms,Windows
+Permissions Required,User
+Supports Remote, Yes
+Version,1.2
+Created,09 March 2020
+Last Modified,26 July 2021
