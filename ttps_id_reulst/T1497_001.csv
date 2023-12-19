@@ -1,0 +1,10 @@
+Title,Value
+ID,T1497.001
+Sub-technique of, T1497
+Tactics,"Defense Evasion, Discovery"
+Platforms,"Linux, Windows, macOS"
+Defense Bypassed,"Anti-virus, Host forensic analysis, Signature-based detection, Static File Analysis"
+Contributors,Deloitte Threat Library Team
+Version,2.1
+Created,06 March 2020
+Last Modified,18 October 2021

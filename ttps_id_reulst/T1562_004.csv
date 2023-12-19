@@ -1,0 +1,9 @@
+Title,Value
+ID,T1562.004
+Sub-technique of, T1562
+Tactic,Defense Evasion
+Platforms,"Linux, Windows, macOS"
+Defense Bypassed,Firewall
+Version,1.1
+Created,21 February 2020
+Last Modified,28 February 2023

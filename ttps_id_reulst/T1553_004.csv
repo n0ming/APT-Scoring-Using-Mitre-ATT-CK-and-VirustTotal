@@ -1,0 +1,11 @@
+Title,Value
+ID,T1553.004
+Sub-technique of, T1553
+Tactic,Defense Evasion
+Platforms,"Linux, Windows, macOS"
+Permissions Required,"Administrator, User"
+Defense Bypassed,Digital Certificate Validation
+Contributors,"Itzik Kotler, SafeBreach; Matt Graeber, @mattifestation, SpecterOps; Red Canary; Travis Smith, Tripwire"
+Version,1.1
+Created,21 February 2020
+Last Modified,30 March 2023

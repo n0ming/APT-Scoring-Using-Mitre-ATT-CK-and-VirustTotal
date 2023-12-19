@@ -1,0 +1,10 @@
+Title,Value
+ID,T1543.002
+Sub-technique of, T1543
+Tactics,"Persistence, Privilege Escalation"
+Platforms,Linux
+Permissions Required,"User, root"
+Contributors,"Emad Al-Mousa, Saudi Aramco; Tony Lambert, Red Canary"
+Version,1.3
+Created,17 January 2020
+Last Modified,12 April 2023
